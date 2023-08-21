@@ -10,7 +10,11 @@ h2 {
     text-align: center;
 }
 
-p {
+h3 {
     font-size: 25px;
     font-style: italic;
+}
+
+span {
+    font-style: bold;
 }
