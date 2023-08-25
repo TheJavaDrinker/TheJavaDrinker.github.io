@@ -15,6 +15,12 @@ h3 {
     font-style: italic;
 }
 
+p {
+    font-size: 20px;
+    font-style: normal;
+}
+    
+
 span {
     font-style: bold;
 }
